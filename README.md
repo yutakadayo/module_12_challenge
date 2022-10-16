@@ -2,7 +2,7 @@
 
 `credit_rist_resampling.ipynb` includes data handling.
 
-`report.md` has the final analysis.
+[`report.md`](report.md) has the final analysis.
 
 ---
 ## Technologies
